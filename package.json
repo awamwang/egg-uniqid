@@ -50,12 +50,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-uniqid.git"
+    "url": "git+https://github.com/keepgoingwm/egg-uniqid.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/keepgoingwm/egg-uniqid/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-uniqid#readme",
   "author": "wangnew2013@126.com",
   "license": "MIT"
 }

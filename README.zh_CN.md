@@ -71,7 +71,7 @@ exports.uniqid = {
 
 ## 提问交流
 
-请到 [egg issues](https://github.com/eggjs/egg/issues) 异步交流。
+请到 [egg issues](https://github.com/keepgoingwm/egg-uniqid/issues) 异步交流。
 
 ## License
 
